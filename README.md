@@ -12,13 +12,6 @@ I'm Levente Orha 🖖
 
 ## Repositories
 
-* Thundervale - Website for my book
-* Exoplanets - Classification of exoplanets with Machine Learning algorithms
-* Schrodinger - Simulating wave packages
-
-## Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeventeOrha&layout=compact&theme=tokyonight&count_private=true" />
-</p>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LeventeOrha&show_icons=true)
+* <a href="https://github.com/LeventeOrha/Thundervale">**Thundervale**</a> - Website for my book <a href="https://leventeorha.github.io/Thundervale/">Race to destiny</a>
+* <a href="https://github.com/LeventeOrha/Exoplanets">**Exoplanets**</a> - Classification of exoplanets with Machine Learning algorithms
+* <a href="https://github.com/LeventeOrha/Schrodinger">**Schrodinger**</a> - Simulating wave packages
